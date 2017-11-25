@@ -5,7 +5,7 @@ A Tensorflow implementation of Capsules Network in Hinton's paper of Dynamic Rou
 * Recently Mr Hinton showed his new paper of Dynamic Routing Between Capsules, which would subvert traditional neural nets, and I agree with him.
 
 ## Support
-* Capsule network is based on [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow), where you can update it.
+* Capsule network is based on [Naturomics CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow), where you can update it.
 * However I added others into the project.
 
 ## Requirements
